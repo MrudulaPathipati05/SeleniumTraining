@@ -11,6 +11,20 @@ public class DataTypeDemo {
 	
 	short sh = (short)32768;
 	System.out.println(sh);
+	
+	boolean b2= true;
+	System.out.println(b2);
+	char ch ='m';
+	System.out.println(ch);
+	int chvalue =(int) ch;
+	System.out.println(chvalue);
+	int j =50;
+	char ivalue = (char) j;
+	System.out.println(ivalue);
+
+	
+	//asci code,unicode - two types of char
+	
 	}
 
 }
