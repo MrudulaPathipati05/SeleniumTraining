@@ -26,5 +26,8 @@ public class DataTypeDemo {
 	//asci code,unicode - two types of char
 	
 	}
+	class train1{
+
+	}
 
 }
